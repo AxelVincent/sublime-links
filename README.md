@@ -2,9 +2,9 @@
 
 ## Mac
 ### Tools
-- CheatSheet : https://mediaatelier.com/CheatSheet/?lang=en . 
+- CheatSheet : https://mediaatelier.com/CheatSheet/?lang=en  
 *CheatSheet lets you view available keyboard shortcuts in your current application*
-- Spectacle : https://www.spectacleapp.com/ . 
+- Spectacle : https://www.spectacleapp.com/  
 *Window control with simple and customizable keyboard shortcuts*
 
 ### Useful 
