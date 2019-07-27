@@ -8,5 +8,5 @@
 *Window control with simple and customizable keyboard shortcuts*
 
 ### Useful 
-- Custom iTerm : https://hackernoon.com/how-to-trick-out-terminal-287c0e93fce0  
+- Custom iTerm : https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961  
 *Turn your terminal into something more beautiful*
