@@ -21,3 +21,9 @@
 ### Good practice
 - Checklist design : https://www.checklist.design/  
 *A collection of the best UX and UI practices.*
+
+
+## Security
+### Tools
+- Dashlane : https://www.dashlane.com/cs/UhSjQYc7RF6x  
+*Password and data manager, get 6 premium month with my refferal link*
