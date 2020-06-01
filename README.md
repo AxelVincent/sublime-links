@@ -7,9 +7,10 @@
 - Spectacle : https://www.spectacleapp.com/  
 *Window control with simple and customizable keyboard shortcuts*
 
-### Useful 
+### Customization 
 - Custom iTerm : https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961  
 *Turn your terminal into something more beautiful*
+- Screensaver inspired by Apple's Event on October 30, 2018 : https://github.com/pedrommcarrasco/Brooklyn
 
 ## Programming
 ### MongoDB
@@ -18,7 +19,7 @@
 
 ## Mathematics
 ### Machine learning
-- Machine learning for everyine : https://vas3k.com/blog/machine_learning/
+- Machine learning for everyine : https://vas3k.com/blog/machine_learning/  
 *In simple words. With real life examples.*
 
 
