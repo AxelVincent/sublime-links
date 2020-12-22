@@ -31,7 +31,7 @@
 
 ## Music
 ### Fun
-- AI lofi player : https://magenta.github.io/lofi-player/
+- AI lofi player : https://magenta.github.io/lofi-player/  
 *Enter in a room and generate AI created lofi music*
 
 ## Design
