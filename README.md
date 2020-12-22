@@ -29,10 +29,12 @@
 - Machine learning for everyine : https://vas3k.com/blog/machine_learning/  
 *In simple words. With real life examples.*
 
-## Music
-### Fun
+## Art
+### AI & data driven art
 - AI lofi player : https://magenta.github.io/lofi-player/  
 *Enter in a room and generate AI created lofi music*
+- AI generated art tools list : https://aiartists.org/ai-generated-art-tools  
+*A bunch of tools to produce art with AI*
 
 ## Design
 ### Good practice
