@@ -17,6 +17,12 @@
 - Coding game : https://www.codingame.com/  
 *Learn language with a gaming experience*
 
+### Hacking
+- Cryptography : https://cryptohack.org/  
+ *Learn cryptography with exercises*
+- Global knowledge : https://www.root-me.org/spip.php  
+ *Learn hacking with exercises*
+
 ### MongoDB
 - Mongo Object Time : https://steveridout.github.io/mongo-object-time/  
 *Did you know that each MongoDB ObjectId contains an embedded timestamp of its creation time?*
@@ -26,7 +32,7 @@
 
 ## Mathematics
 ### Machine learning
-- Machine learning for everyine : https://vas3k.com/blog/machine_learning/  
+- Machine learning for everyone : https://vas3k.com/blog/machine_learning/  
 *In simple words. With real life examples.*
 
 ## Art
