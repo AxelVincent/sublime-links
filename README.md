@@ -13,7 +13,15 @@
 - Screensaver inspired by Apple's Event on October 30, 2018 : https://github.com/pedrommcarrasco/Brooklyn
 
 ## Programming
+### Interesting articles
+- Technical debt : https://refactoring.fm/p/the-true-meaning-of-technical-debt  
+*The True Meaning of Technical Debt 💸*
+- Code review : https://mtlynch.io/code-review-love/  
+*How to Make Your Code Reviewer Fall in Love with You*
+
 ### Learning
+- Git branching : https://learngitbranching.js.org/  
+*An interactive Git vizualization tool to learn git*
 - Coding game : https://www.codingame.com/  
 *Learn language with a gaming experience*
 
@@ -26,9 +34,6 @@
 ### MongoDB
 - Mongo Object Time : https://steveridout.github.io/mongo-object-time/  
 *Did you know that each MongoDB ObjectId contains an embedded timestamp of its creation time?*
-
-### VSCode
-- Real time coding helper : https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 
 ## Mathematics
 ### Machine learning
