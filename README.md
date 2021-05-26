@@ -13,17 +13,21 @@
 - Screensaver inspired by Apple's Event on October 30, 2018 : https://github.com/pedrommcarrasco/Brooklyn
 
 ## Programming
-### Interesting articles
+### Interesting ressources
 - Technical debt : https://refactoring.fm/p/the-true-meaning-of-technical-debt  
 *The True Meaning of Technical Debt 💸*
 - Code review : https://mtlynch.io/code-review-love/  
 *How to Make Your Code Reviewer Fall in Love with You*
+- Egoless programming : https://en.wikipedia.org/wiki/Egoless_programming  
+*Egoless programming is a style of computer programming in which personal factors are minimized so that quality may be improved*
 
 ### Learning
 - Git branching : https://learngitbranching.js.org/  
 *An interactive Git vizualization tool to learn git*
 - Coding game : https://www.codingame.com/  
 *Learn language with a gaming experience*
+- Node school : https://nodeschool.io/  
+*Open source workshops that teach web software skills*
 
 ### Hacking
 - Cryptography : https://cryptohack.org/  
