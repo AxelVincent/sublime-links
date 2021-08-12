@@ -20,6 +20,8 @@
 *How to Make Your Code Reviewer Fall in Love with You*
 - Egoless programming : https://en.wikipedia.org/wiki/Egoless_programming  
 *Egoless programming is a style of computer programming in which personal factors are minimized so that quality may be improved*
+- Enterprise Application Logging Best Practices : https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df  
+*Let’s write meaningful log messages that everyone loves!*
 
 ### Learning
 - Git branching : https://learngitbranching.js.org/  
