@@ -30,6 +30,8 @@
 *Learn language with a gaming experience*
 - Node school : https://nodeschool.io/  
 *Open source workshops that teach web software skills*
+- Exercism : https://exercism.org/  
+*Explore and get fluent in 55 programming languages*
 
 ### Hacking
 - Cryptography : https://cryptohack.org/  
