@@ -23,6 +23,10 @@
 - Enterprise Application Logging Best Practices : https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df  
 *Let’s write meaningful log messages that everyone loves!*
 
+### Architecture
+- Hexagonal Architecture : https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/  
+*three principles and an implementation example*
+
 ### Learning
 - Git branching : https://learngitbranching.js.org/  
 *An interactive Git vizualization tool to learn git*
