@@ -6,6 +6,8 @@
 *CheatSheet lets you view available keyboard shortcuts in your current application*
 - Spectacle : https://www.spectacleapp.com/  
 *Window control with simple and customizable keyboard shortcuts*
+- Rocket : https://matthewpalmer.net/rocket/  
+*Rocket is a free Mac app that makes typing emoji faster and easier using Slack-style shortcuts.*
 
 ### Customization 
 - Custom iTerm : https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961  
