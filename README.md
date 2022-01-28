@@ -12,7 +12,8 @@
 ### Customization 
 - Custom iTerm : https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961  
 *Turn your terminal into something more beautiful*
-- Screensaver inspired by Apple's Event on October 30, 2018 : https://github.com/pedrommcarrasco/Brooklyn
+- Screensaver inspired by Apple's Event on October 30, 2018 : https://github.com/pedrommcarrasco/Brooklyn  
+- Add VSCode-style autocomplete to your existing terminal : https://fig.io/
 
 ## Programming
 ### Interesting ressources
