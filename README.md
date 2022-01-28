@@ -18,16 +18,20 @@
 ### Interesting ressources
 - Technical debt : https://refactoring.fm/p/the-true-meaning-of-technical-debt  
 *The True Meaning of Technical Debt 💸*
-- Code review : https://mtlynch.io/code-review-love/  
-*How to Make Your Code Reviewer Fall in Love with You*
-- Egoless programming : https://en.wikipedia.org/wiki/Egoless_programming  
-*Egoless programming is a style of computer programming in which personal factors are minimized so that quality may be improved*
 - Enterprise Application Logging Best Practices : https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df  
 *Let’s write meaningful log messages that everyone loves!*
 
 ### Architecture
 - Hexagonal Architecture : https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/  
 *three principles and an implementation example*
+
+### Code review
+- Code review : https://mtlynch.io/code-review-love/  
+*How to Make Your Code Reviewer Fall in Love with You*
+- Egoless programming : https://en.wikipedia.org/wiki/Egoless_programming  
+*Egoless programming is a style of computer programming in which personal factors are minimized so that quality may be improved*
+- Commit message emoji guide : https://gitmoji.dev/  
+*An emoji guide for your commit messages*
 
 ### Learning
 - Git branching : https://learngitbranching.js.org/  
