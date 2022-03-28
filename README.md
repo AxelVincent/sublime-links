@@ -21,6 +21,8 @@
 *The True Meaning of Technical Debt 💸*
 - Enterprise Application Logging Best Practices : https://betterprogramming.pub/application-logging-best-practices-a-support-engineers-perspective-b17d0ef1c5df  
 *Let’s write meaningful log messages that everyone loves!*
+- Refactoring guru : https://refactoring.guru/  
+*Refactoring and design patterns visually explained*
 
 ### Architecture
 - Hexagonal Architecture : https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/  
