@@ -73,6 +73,9 @@
 - Checklist design : https://www.checklist.design/  
 *A collection of the best UX and UI practices.*
 
+## Life
+- Conversation Skills Essentials : https://tynan.com/letstalk/
+
 
 ## Security
 ### Tools
