@@ -10,8 +10,8 @@
 *Rocket is a free Mac app that makes typing emoji faster and easier using Slack-style shortcuts.*
 
 ### Customization 
-- Custom iTerm : https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961  
-*Turn your terminal into something more beautiful*
+- Custom iTerm : https://www.josean.com/posts/terminal-setup
+*Turn your OSX terminal into something more beautiful in under 7 minutes*
 - Screensaver inspired by Apple's Event on October 30, 2018 : https://github.com/pedrommcarrasco/Brooklyn  
 - Add VSCode-style autocomplete to your existing terminal : https://fig.io/
 
